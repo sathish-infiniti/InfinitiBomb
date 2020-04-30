@@ -41,7 +41,7 @@ echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m
 
 
 echo " "
-echo -e "\e[1;31m         Don't do Stupid Things Using This!!! \e[0m"
+echo -e "\e[1;31m           Don't do Stupid Things Using This!!! \e[0m"
 echo " "
 echo "Enter 1   =>    SMS Bombing "
 echo "Enter 2   =>    CALL Bombing "
