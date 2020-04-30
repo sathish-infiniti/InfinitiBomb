@@ -288,7 +288,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\tTBomb Will Stop Now...\n\n')
+        print('\t\tInfinitiBomb Will Stop Now...\n\n')
         banner()
         exit()
 
@@ -773,7 +773,7 @@ def update():
         file.write(dat)
         file.close()
     print('\n\t\tUpdated Successfull !!!!')
-    print('\tPlease Run The Script Again...')
+    print("Run ./InfinitiBomb to open Again - if closed -")
     exit()
 
 
@@ -799,13 +799,15 @@ if ver != verl:
     print('\nStarting Update...')
     update()
 print("\nYour Version is Up-To-Date")
-print('\n\n\t\t\tStarting InfinitiBomb...\n\n')
+print('\n\n\t\tStarting InfinitiBomb...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.notify").read().decode('utf-8')
     noti = noti.upper().strip()
     if len(noti) > 10:
         print('\n\n' + noti + '\n\n')
+        print("Current version : "+ verl )
+        print("\nLatest Update : " + ver)
 except Exception:
     pass
 while True:
