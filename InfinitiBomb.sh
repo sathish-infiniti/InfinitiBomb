@@ -6,7 +6,7 @@ echo -e "\e[1;32m InfinitiBomb \e[0m"
 echo -e "\e\n[1;31m Note : Please Dont MisUse the Script  \e[0m"
 echo -e "\e\n[1;31m Continue At Your Own Risk \e[0m"
 echo "Press Enter To Continue"
-echo "\n"
+echo ""
 read a1
 if [[ -s update.sathishinfiniti ]];then
 echo "All Requirements Found...."
@@ -15,7 +15,7 @@ echo 'Installing Requirements....'
 echo .
 echo .
 apt install figlet toilet python curl -y
-apt install python3-pip
+apt install python3
 pip install -r dependencies.txt
 echo This Script Was Made By Sathish Infiniti >update.sathishinfiniti
 echo Requirements Installed....
