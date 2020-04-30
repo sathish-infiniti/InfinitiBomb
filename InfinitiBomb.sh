@@ -2,11 +2,11 @@
 clear
 figlet -f block Infiniti
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m InfinitiBomb \e[0m"
-echo -e "\e\n[1;31m Note : Please Dont MisUse the Script  \e[0m"
-echo -e "\e\n[1;31m Continue At Your Own Risk \e[0m"
-echo "Press Enter To Continue"
-echo ""
+echo -e "\e[1;32m- InfinitiBomb -\e[0m"
+echo -e "\e\n[1;31m- Note : Please Dont MisUse the Script  -\e[0m"
+echo -e "\e\n[1;31m- Continue At Your Own Risk  -\e[0m"
+echo "----  Press Enter To Continue  ----"
+echo " "
 read a1
 if [[ -s update.sathishinfiniti ]];then
 echo "All Requirements Found...."
@@ -29,6 +29,7 @@ clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
+figlet Sathish
 figlet Infiniti
 echo -e "\e[1;34m    This InfinitiBomber Was Created By Infiniti \e[0m"
 echo -e "\e[1;34m   For Help and other Queries Mail Me at below id\e[0m"
@@ -85,6 +86,7 @@ clear
 echo -e "\e[1;33m"
 figlet InfinitiBomb
 echo -e "\e[1;34mCreated By \e[1;34m"
+figlet Sathish
 figlet Infiniti 
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
@@ -116,6 +118,7 @@ clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
+figlet Sathish
 figlet Infiniti 
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m Mail :\e[0m"
