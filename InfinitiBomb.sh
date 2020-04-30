@@ -2,7 +2,7 @@
 clear
 figlet -f block Infiniti
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;31m"
+echo -e "\e[1;32m"
 figlet InfinitiBomb
 echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m"
 echo -e "\e\n[1;31m-                 Continue At Your Own Risk               -\e[0m\n"
@@ -41,7 +41,7 @@ echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m
 
 
 echo " "
-echo -e "\e[1;31m           Don't do Stupid Things Using This!!! \e[0m"
+echo -e "\e[1;31m             Don't do Stupid Things Using This!!! \e[0m"
 echo " "
 echo "Enter 1   =>    SMS Bombing "
 echo "Enter 2   =>    CALL Bombing "
