@@ -5,8 +5,8 @@ echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m"
 figlet InfinitiBomb
 echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m"
-echo -e "\e\n[1;34m-                 Continue At Your Own Risk               -\e[0m\n"
-echo "-            ----  Press Enter To Continue  ----          -"
+echo "-                 Continue At Your Own Risk               -"
+echo -e "\e\n[1;32m-            ----  Press Enter To Continue  ----          -\e[0m"
        #https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  
 echo " "
 read a1
