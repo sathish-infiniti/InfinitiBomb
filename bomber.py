@@ -798,16 +798,16 @@ if ver != verl:
     print('\nAn Update is Available....')
     print('\nStarting Update...')
     update()
+print("\nCurrent version : "+ verl )
+print("\nLatest Update : " + ver)
 print("\nYour Version is Up-To-Date")
-print('\n\n\t\tStarting InfinitiBomb...\n\n')
+print('\n\n\t...Starting InfinitiBomb...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.notify").read().decode('utf-8')
     noti = noti.upper().strip()
     if len(noti) > 10:
         print('\n\n' + noti + '\n\n')
-        print("Current version : "+ verl )
-        print("\nLatest Update : " + ver)
 except Exception:
     pass
 while True:
