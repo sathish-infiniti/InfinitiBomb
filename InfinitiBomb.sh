@@ -94,7 +94,7 @@ echo -e "\n\e[1;33m.                        Created By                       .\e
 figlet Sathish
 figlet Infiniti 
 echo  " "
-echo -e "\n\e[1;32m                   Features\e[1;34m"
+echo -e "\n\e[1;34m                   Features\e[1;32m"
 echo "  [+] Unlimited And Super-Fast Bombing"
 echo "  [+] International Bombing"
 echo "  [+] Call Bombing "
@@ -106,11 +106,11 @@ echo ""
 echo -e "\n\e[1;31m  This Script is Only For Educational Purposes or To Prank.\e[0m"
 echo -e "\e[1;31m             Do not Use This To Harm Others. \e[0m"
 echo -e "\e[1;31m     I Am Not Responsible For The Misuse Of The Script. \e[0m"
-echo -e "\e[1;32m        Make Sure To Update it If It Does not Work.\e[0m"
+echo -e "\e[1;34m        Make Sure To Update it If It Does not Work.\e[0m"
 echo  " "
 echo -e "\n\e[1;31m                       That's All !!!\e[0m"
-echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
-echo -e "\e[1;34m             Mail: sathishinfinitihub@gmail.com \e[0m"
+echo -e "\e[1;34m        For Help and other Queries Mail Me at below id\e[0m"
+echo -e "\e[1;33m             Mail: sathishinfinitihub@gmail.com \e[0m"
 echo -e "\e[1;34m                        YouTube Page \e[0m"
 echo -e "\e[4;34m-https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ-\e[0m"
 
