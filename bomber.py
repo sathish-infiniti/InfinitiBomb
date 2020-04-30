@@ -786,7 +786,7 @@ except Exception:
     print("\nPlease Connect To Internet To Continue...\n")
     input('Exiting....\n Press Enter To Continue....\n')
     exit()
-print('\nChecking For Updates...')
+print('\nChecking For Updates...\n')
 ver = urllib.request.urlopen(
     "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.version").read().decode('utf-8')
 verl = ''
@@ -799,9 +799,9 @@ if ver != verl:
     print('\nStarting Update...')
     update()
 print("\nCurrent version : "+ verl )
-print("\nLatest Update : " + ver)
+print("Latest Update : " + ver)
 print("\nYour Version is Up-To-Date")
-print('\n\n\t...Starting InfinitiBomb...\n\n')
+print('\n\n\t\t...Starting InfinitiBomb...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.notify").read().decode('utf-8')
