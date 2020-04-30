@@ -128,5 +128,6 @@ echo -e "\e[4;32m Invalid Input !!! \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
+echo "Run \e ./InfinitiBomb.sh\e[0m to Come Back ;)  "
 fi
 done
