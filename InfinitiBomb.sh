@@ -30,11 +30,11 @@ rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
-echo -e "\e[1;34m Created By \e[1;32m"
+echo -e "\e[1;32m Created By \e[1;34m"
 figlet -f shadow Sathish
 figlet -f shadow Infiniti
-echo -e "\e[1;34m          This InfinitiBomber Was Created By Infiniti \e[0m"
-echo -e "\e[1;34m        For Help and other Queries Mail Me at below id\e[0m"
+echo -e "\e[1;32m          This InfinitiBomber Was Created By Infiniti \e[0m"
+echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
 echo -e "\e[1;32m             Mail: sathishinfinitihub@gmail.com \e[0m"
 echo -e "\e[1;32m                        YouTube Page \e[0m"
 echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
