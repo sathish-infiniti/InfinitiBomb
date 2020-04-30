@@ -721,6 +721,7 @@ def start(target, counter, delay, ch, cc):
                     os.system('rm *.xxx* > /dev/null 2>&1')
                     print('\n\n')
                     banner()
+                    print("Run ./InfinitiBomb to open Again - if closed -")
                     exit()
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
@@ -759,6 +760,7 @@ def start(target, counter, delay, ch, cc):
     print('\n\nInfinitiBomb Finished Bombing..')
     os.system('rm *.xxx* > /dev/null 2>&1')
     banner()
+    print("Run ./InfinitiBomb to open Again - if closed -")
     exit()
 
 
@@ -803,7 +805,7 @@ try:
         "https://raw.githubusercontent.com/sathish-infiniti/InfinitiBomb/master/.notify").read().decode('utf-8')
     noti = noti.upper().strip()
     if len(noti) > 10:
-        print('\n\n\tNOTIFICATION: ' + noti + '\n\n')
+        print('\n\n' + noti + '\n\n')
 except Exception:
     pass
 while True:
@@ -867,15 +869,18 @@ if not cc.strip() == "91":
         input('Press Enter To Exit....')
         print('\n\n')
         banner()
+        print("Run ./InfinitiBomb to open Again - if closed -")
         exit()
     cnt = 0
     if pn.strip() == '' or dl <= 0 or nm <= 0 or cc.strip() == '' or cc.find('+') != -1:
         print('\n\n\tSeems Like You Have Given Wrong Inputs...')
         input('\n\t\tPress Enter To Exit...')
         banner()
+        print("Run ./InfinitiBomb to open Again - if closed -")
         exit()
     ch = [0, 14, 15, 16]
     start(pn, nm, dl, ch, str(cc))
+    print("Run ./InfinitiBomb to open Again - if closed -")
     exit()
 ch = [i for i in range(17)]
 cbomb = False
@@ -883,6 +888,7 @@ if pn.strip() == '' or dl <= 0 or nm < 0:
     print('\n\n\tSeems Like You Have Given Wrong Inputs...')
     input('\n\t\tPress Enter To Exit...')
     banner()
+    print("Run ./InfinitiBomb to open Again - if closed -")
     exit()
 if type == 1:
     print("NOTE: Call Bomb Might Not Work on DND Activated Numbers...\n")
@@ -891,6 +897,7 @@ if type == 1:
 if cbomb:
     chl = [100, 101, 102, 103, 104, 105, 106]
     start(pn, nm, dl, chl, str(cc))
+    print("Run ./InfinitiBomb to open Again - if closed -")
     exit()
 if nm == 0:
     nt = int(input("\tNumber Of Threads(10 to 20) : "))
@@ -930,6 +937,7 @@ if nm == 0:
             input('Press Enter To Exit...')
             os.system('rm *xxx* > /dev/null 2>&1')
             banner()
+            print("Run ./InfinitiBomb to open Again - if closed -")
             exit()
         time.sleep(1)
         if ci % 3 == 0:
@@ -937,3 +945,4 @@ if nm == 0:
 else:
     start(pn, nm, dl, ch, '91')
     exit()
+    
