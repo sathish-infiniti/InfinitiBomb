@@ -5,7 +5,7 @@ echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m"
 figlet InfinitiBomb
 echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m"
-echo -e "\e\n[1;31m-                 Continue At Your Own Risk               -\e[0m\n"
+echo -e "\e\n[1;34m-                 Continue At Your Own Risk               -\e[0m\n"
 echo "-            ----  Press Enter To Continue  ----          -"
        #https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  
 echo " "
@@ -35,9 +35,9 @@ figlet -f shadow Sathish
 figlet -f shadow Infiniti
 echo -e "\e[1;32m          This InfinitiBomber Was Created By Infiniti \e[0m"
 echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
-echo -e "\e[1;32m             Mail: sathishinfinitihub@gmail.com \e[0m"
-echo -e "\e[1;32m                        YouTube Page \e[0m"
-echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+echo -e "\e[1;34m             Mail: sathishinfinitihub@gmail.com \e[0m"
+echo -e "\e[1;34m                        YouTube Page \e[0m"
+echo -e "\e[1;34m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
 
 
 echo " "
