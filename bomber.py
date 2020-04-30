@@ -730,6 +730,7 @@ def start(target, counter, delay, ch, cc):
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
+        print("\nSome Successfull attempts may take time to reach target number \n")
         print("..............................................................")
         print("   !!         InfinitiBomb is Working, please wait       !!     ")
         print("   !!   Please Dont Turn Off ur Internet While bombing   !!     ")
@@ -908,6 +909,7 @@ if nm == 0:
     print("\n\nPlease Remember That This Is in Experimental Stage And Is Incredibly Fast...")
     t = [None] * nt
     print(random.choice(colors))
+    print("\nSome Successfull attempts may take time to reach target number \n")
     print("..............................................................")
     print("   !!         InfinitiBomb is Working, please wait       !!     ")
     print("   !!   Please Dont Turn Off ur Internet While bombing   !!     ")
