@@ -30,7 +30,7 @@ rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
-echo -e "\n\e[1;32m Created By \e[1;34m\n"
+echo -e "\n\e[1;33m.                        Created By                       .\e[0m\n"
 figlet -f shadow Sathish
 figlet -f shadow Infiniti
 echo -e "\n\e[1;32m          This InfinitiBomber Was Created By Infiniti \e[0m"
@@ -90,7 +90,7 @@ elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
 figlet InfinitiBomb
-echo -e "\n\e[1;34mCreated By \e[1;34m\n"
+echo -e "\n\e[1;33m.                        Created By                       .\e[0m\n"
 figlet Sathish
 figlet Infiniti 
 echo  " "
@@ -121,7 +121,7 @@ elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
-echo -e "\n\e[1;34m Created By \e[1;32m\n"
+echo -e "\n\e[1;33m.                        Created By                       .\e[0m\n"
 figlet Sathish
 figlet Infiniti 
 echo -e "\n\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
