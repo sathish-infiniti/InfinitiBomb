@@ -15,7 +15,7 @@ echo 'Installing Requirements....'
 echo .
 echo .
 apt install figlet toilet python curl -y
-apt install python3
+apt install python
 pip install -r dependencies.txt
 echo This Script Was Made By Sathish Infiniti >update.sathishinfiniti
 echo Requirements Installed....
