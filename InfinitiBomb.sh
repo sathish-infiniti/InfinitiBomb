@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 figlet -f block Infiniti
-echo -e "\e[1;34m Presents \e[0m"
+echo -e "\e[1;34m.                         Presents                        .\e[0m"
 echo -e "\e[1;32m"
 figlet InfinitiBomb
 echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m\n"
