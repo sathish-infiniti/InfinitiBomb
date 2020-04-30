@@ -4,7 +4,7 @@ figlet -f block Infiniti
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m"
 figlet InfinitiBomb
-echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m"
+echo -e "\e\n[1;31m-           Note : Please Dont MisUse the Script          -\e[0m\n"
 echo "-                 Continue At Your Own Risk               -"
 echo -e "\e\n[1;32m-            ----  Press Enter To Continue  ----          -\e[0m"
        #https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  
@@ -37,7 +37,7 @@ echo -e "\e[1;32m          This InfinitiBomber Was Created By Infiniti \e[0m"
 echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
 echo -e "\e[1;34m             Mail: sathishinfinitihub@gmail.com \e[0m"
 echo -e "\e[1;34m                        YouTube Page \e[0m"
-echo -e "\e[4;34m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+echo -e "\e[4;34m-https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m-"
 
 
 echo " "
@@ -112,7 +112,7 @@ echo -e "\e[1;31m                       That's All !!!\e[0m"
 echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
 echo -e "\e[1;34m             Mail: sathishinfinitihub@gmail.com \e[0m"
 echo -e "\e[1;34m                        YouTube Page \e[0m"
-echo -e "\e[4;34m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+echo -e "\e[4;34m-https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m-"
 
 echo "Press Enter To Go Home"
 read a3
@@ -127,7 +127,7 @@ figlet Infiniti
 echo -e "\e[1;32m        For Help and other Queries Mail Me at below id\e[0m"
 echo -e "\e[1;34m             Mail: sathishinfinitihub@gmail.com \e[0m"
 echo -e "\e[1;34m                        YouTube Page \e[0m"
-echo -e "\e[4;34m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+echo -e "\e[4;34m-https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m-"
 echo " "
 exit 0
 else
