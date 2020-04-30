@@ -29,18 +29,21 @@ echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 figlet Infiniti
-echo -e "\e[4;34m This InfinitiBomber Was Created By Infiniti \e[0m"
-echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m   Mail: sathishinfinitihub@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ \e[0m"
+echo -e "\e[1;34m  This InfinitiBomber Was Created By Infiniti \e[0m"
+echo -e "\e[1;34m For Help and other Queries Mail Me at below id\e[0m"
+echo -e "\e[1;32m     Mail: sathishinfinitihub@gmail.com \e[0m"
+echo -e "\e[1;32m                YouTube Page \e[0m"
+echo -e "\e[1;32mhttps://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+
+
 echo " "
-echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
+echo -e "\e[1;31m     Don't do Stupid Things Using This!!! \e[0m"
 echo " "
-echo "Press 1 To  Start SMS Bomber "
-echo "Press 2 To  Start Call Bomber "
-echo "Press 3 To  Update (Works On Linux And Linux Emulators) "
-echo "Press 4 To  View Features "
-echo "Press 5 To  Exit "
+echo "Enter 1   =>    SMS Bombing "
+echo "Enter 2   =>    CALL Bombing "
+echo "Enter 3   =>    UPDATE ( Termux , Linux Based ) "
+echo "Enter 4   =>    View FEATURES "
+echo "Enter 5   =>    EXIT "
 read ch
 if [ $ch -eq 1 ];then
 clear
@@ -99,8 +102,11 @@ echo -e "\e[1;32m Make Sure To Update it If It Does not Work.\e[0m"
 echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m   Mail       : sathish.infinitihub@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube    : https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  \e[0m"
+echo -e "\e[1;32m Mail :\e[0m"
+echo -e "\e[1;32m sathish.infinitihub@gmail.com \e[0m"
+echo -e "\e[4;32m YouTube :\e[0m"
+echo -e "\e[1;32m https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ \e[0m"
+
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -111,8 +117,10 @@ figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 figlet Infiniti 
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: sathish.infinitihub@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  \e[0m"
+echo -e "\e[1;32m Mail :\e[0m"
+echo -e "\e[1;32m sathish.infinitihub@gmail.com \e[0m"
+echo -e "\e[4;32m YouTube :\e[0m"
+echo -e "\e[1;32m https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ \e[0m"
 echo " "
 exit 0
 else
