@@ -1,8 +1,10 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Infiniti Productions !!! \e[0m"
+figlet -f block Infiniti
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m InfinitiBomb \e[0m"
+echo -e "\e\n[1;31m Note : Please Dont MisUse the Script  \e[0m"
+echo -e "e\n[1;31m Continue At Your Own Risk \e[0m"
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.sathishinfiniti ]];then
