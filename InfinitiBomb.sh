@@ -33,15 +33,15 @@ figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 figlet -f shadow Sathish
 figlet -f shadow Infiniti
-echo -e "\e[1;34m        This InfinitiBomber Was Created By Infiniti \e[0m"
-echo -e "\e[1;34m      For Help and other Queries Mail Me at below id\e[0m"
-echo -e "\e[1;32m           Mail: sathishinfinitihub@gmail.com \e[0m"
-echo -e "\e[1;32m                      YouTube Page \e[0m"
+echo -e "\e[1;34m          This InfinitiBomber Was Created By Infiniti \e[0m"
+echo -e "\e[1;34m        For Help and other Queries Mail Me at below id\e[0m"
+echo -e "\e[1;32m             Mail: sathishinfinitihub@gmail.com \e[0m"
+echo -e "\e[1;32m                        YouTube Page \e[0m"
 echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
 
 
 echo " "
-echo -e "\e[1;31m       Don't do Stupid Things Using This!!! \e[0m"
+echo -e "\e[1;31m         Don't do Stupid Things Using This!!! \e[0m"
 echo " "
 echo "Enter 1   =>    SMS Bombing "
 echo "Enter 2   =>    CALL Bombing "
