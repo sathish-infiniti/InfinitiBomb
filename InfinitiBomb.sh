@@ -31,8 +31,8 @@ clear
 echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-figlet -f Sathish
-figlet Infiniti
+figlet -f shadow Sathish
+figlet -f shadow Infiniti
 echo -e "\e[1;34m     This InfinitiBomber Was Created By Infiniti \e[0m"
 echo -e "\e[1;34m    For Help and other Queries Mail Me at below id\e[0m"
 echo -e "\e[1;32m         Mail: sathishinfinitihub@gmail.com \e[0m"
