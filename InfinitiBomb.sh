@@ -4,8 +4,8 @@ figlet -f block Infiniti
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m InfinitiBomb \e[0m"
 echo -e "\e\n[1;31m Note : Please Dont MisUse the Script  \e[0m"
-echo -e "e\n[1;31m Continue At Your Own Risk \e[0m"
-echo "Press Enter To Continue"
+echo -e "\e\n[1;31m Continue At Your Own Risk \e[0m"
+echo "\nPress Enter To Continue"
 read a1
 if [[ -s update.sathishinfiniti ]];then
 echo "All Requirements Found...."
@@ -29,11 +29,11 @@ echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 figlet Infiniti
-echo -e "\e[1;34m  This InfinitiBomber Was Created By Infiniti \e[0m"
-echo -e "\e[1;34m For Help and other Queries Mail Me at below id\e[0m"
-echo -e "\e[1;32m     Mail: sathishinfinitihub@gmail.com \e[0m"
-echo -e "\e[1;32m                YouTube Page \e[0m"
-echo -e "\e[1;32mhttps://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
+echo -e "\e[1;34m    This InfinitiBomber Was Created By Infiniti \e[0m"
+echo -e "\e[1;34m   For Help and other Queries Mail Me at below id\e[0m"
+echo -e "\e[1;32m        Mail: sathishinfinitihub@gmail.com \e[0m"
+echo -e "\e[1;32m                   YouTube Page \e[0m"
+echo -e "\e[1;32m  https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ\e[0m"
 
 
 echo " "
@@ -128,6 +128,6 @@ echo -e "\e[4;32m Invalid Input !!! \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
-echo "Run \e ./InfinitiBomb.sh\e[0m to Come Back ;)  "
+#echo "Run \e ./InfinitiBomb.sh\e[0m to Come Back ;)  "
 fi
 done
