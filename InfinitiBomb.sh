@@ -6,7 +6,8 @@ echo -e "\e[1;31m"
 figlet InfinitiBomb
 echo -e "\e\n[1;31m- Note : Please Dont MisUse the Script  -\e[0m"
 echo -e "\e\n[1;31m- Continue At Your Own Risk  -\e[0m"
-echo "----  Press Enter To Continue  ----"
+echo ".           ----  Press Enter To Continue  ----          ."
+       https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ  
 echo " "
 read a1
 if [[ -s update.sathishinfiniti ]];then
