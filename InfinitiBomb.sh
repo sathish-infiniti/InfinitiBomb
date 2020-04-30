@@ -5,7 +5,8 @@ echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m InfinitiBomb \e[0m"
 echo -e "\e\n[1;31m Note : Please Dont MisUse the Script  \e[0m"
 echo -e "\e\n[1;31m Continue At Your Own Risk \e[0m"
-echo "\nPress Enter To Continue"
+echo "Press Enter To Continue"
+echo "\n"
 read a1
 if [[ -s update.sathishinfiniti ]];then
 echo "All Requirements Found...."
