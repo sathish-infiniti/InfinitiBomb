@@ -66,7 +66,7 @@ exit 0
 elif [ $ch -eq 3 ];then
 clear
 apt install git -y
-echo -e "\e[1;34m Downloading Latest Files..."
+echo -e "\e[1;34mDownloading Latest Files..."
 git clone https://github.com/sathish-infiniti/InfinitiBomb
 if [[ -s InfinitiBomb/InfinitiBomb.sh ]];then
 cd InfinitiBomb
