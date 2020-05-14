@@ -1,18 +1,6 @@
 <h1 align="center">InfinitiBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
-<p align="center">
-<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb1.jpeg"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb2.jpeg"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb3.jpeg"/>
-</p>
-
 ## Note:
 
 - The script requires working network connection to work.
@@ -32,6 +20,18 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 - This script is only for educational purposes or to prank.
 - **None of the developers/contributors are responsible for the misuse of InfinitiBomb.**
 <br>
+
+<p align="center">
+<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb1.jpeg"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb2.jpeg"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/sathish-infiniti/InfinitiBomb/blob/master/Scr/InfinitiBomb3.jpeg"/>
+</p>
 
 ## Features:
 
@@ -119,7 +119,7 @@ sudo bash InfinitiBomb.sh
 ## CONTRIBUTORS:
 
 - **InfinitiBomb**<br>
-[-] Mail At: sathish.infinitihub@gmail.com
+[-] Mail At: sathish02infiniti@gmail.com
 
 - **DarkestEntropy**<br>
 [-] Check At: https://github.com/darkestentropy
@@ -146,7 +146,7 @@ sudo bash InfinitiBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: sathish.infinitihub@gmail.com<br>
+                 Mail: sathish02infiniti@gmail.com
        YouTube Channel: https://www.youtube.com/channel/UCjFLAHa6fDRqrhJROgGRTZQ
 ```
 
