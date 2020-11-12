@@ -853,7 +853,7 @@ print("\nYour Version is Up-To-Date")
 print('\n\n\t\t...Starting InfinitiBomb...\n\n')
 
 dbtest = db.child("ibomb/ph").get().val()
-print("the val is "+dbtest)
+print(dbtest)
 
 try:
     noti = urllib.request.urlopen(
